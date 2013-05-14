@@ -1,4 +1,4 @@
 ghab-wordpress-theme
 ====================
 
-this is persian wordpress theme
+This is Persian Wordpress theme enjoy it :-)

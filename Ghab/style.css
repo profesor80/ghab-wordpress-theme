@@ -1,0 +1,15 @@
+/*****************************************
+Theme Name:Ghab
+Them URI:	
+Description:قاب یک پوسته کاملا فارسی ورد پرس است که توسط مهدی عامری طراحی و پیاده سازی شده است.Ghab is a persian wordpress theme which is created by Mahdi Ameri.
+version:0.1.1
+Author:Mahdi Ameri
+Author URI:mahdiameri.ir
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:blue, 1-columns,rtl-css,mo-file,widget-support,option-page
+
+******************************************/
+@import url("css/normalize.css");
+@import url("css/960_24_col_rtl.css");
+@import url("css/master.css");
